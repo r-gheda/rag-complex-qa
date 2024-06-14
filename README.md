@@ -1,4 +1,4 @@
-# RAGs for OpencDomain Complex QA
+# RAGs for Open Domain Complex QA
 This repository contains code and data from the NLP course project.
 ## Repository structure
  - `llm-responses` contains QA responses from the experiments in json format.
