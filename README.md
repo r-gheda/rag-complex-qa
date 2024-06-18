@@ -4,7 +4,6 @@ As question answering (QA) systems increasingly rely on large language models (L
  - `llm-responses` contains QA responses from the experiments in json format.
  - `llm-inference` contains notebooks used for running inference with tested LLMs.
  - `llm-evaluation-metrics.ipynb` can be used to compute evaluation metrics from the llm's responses
- - `adore-notebooks` contains code used for preprocessing, training and infernce of the ADORE Dense 
+ - `adore-notebooks` contains code used for preprocessing, training and infernce of the ADORE Dense Retrieval model (see [GitHub](https://github.com/jingtaozhan/DRhard) and [Paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462880)).
  - `qualitative-analysis` contains qualitative results for 100  queries and code to produce them (TBD: cleaning)
- Retrieval model (see [GitHub](https://github.com/jingtaozhan/DRhard) and [Paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462880)).
  - `rag` contains miscellaneous code used for data processing and evaluation of the experiments.
