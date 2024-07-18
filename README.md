@@ -7,4 +7,5 @@ As question answering (QA) systems increasingly rely on large language models (L
  - `adore-notebooks` contains code used for preprocessing, training and infernce of the ADORE Dense Retrieval model (see [GitHub](https://github.com/jingtaozhan/DRhard) and [Paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462880)).
  - `qualitative-analysis` contains qualitative results for 100  queries and code to produce them (TBD: cleaning)
  - `rag` contains miscellaneous code used for data processing and evaluation of the experiments.
+
 Finally, you can find a detailed project report in `Report.pdf`, containing the aim, description and results of all the experiments that we conducted.
